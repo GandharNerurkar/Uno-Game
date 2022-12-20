@@ -9,7 +9,7 @@ public class NumberCard implements Card {
 		this.value = value;
 		this.color = color;
 	}
-
+//
 	public Integer getValue() {
 		return value;
 	}
